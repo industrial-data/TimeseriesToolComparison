@@ -24,8 +24,8 @@
 - **Journal, reports, documentation**
 
 ## 3 - Advanced modeling 
-**Scope:** Extension capabilities data driven root-cause analysis.
+**Scope:** Extension capabilities to use data driven root-cause analysis. Trained (advanced) users such as digital engineers, data translators, data scientists.
 
 - **Target function**
 - **Screening of process variables**
-- **Add-ins and extensions**
+- **Add-ins and extensions (e.g. Python)**
