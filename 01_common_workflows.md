@@ -43,7 +43,7 @@
   - Export a dataset after a period selection
   - Export a dataset after a complex selection (e.g. only if a combination of rules applies)
   - Automatically trigger data extraction on a time base (e.g. daily)
-  - Write back data to OsiPI
+  - Write back data to PIMS (PI, IP.21...)
 
 - **Access to online help and documentation**
 
