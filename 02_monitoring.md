@@ -1,6 +1,6 @@
 # Monitoring
 
-**Scope:** Monitoring (batch anomaly detection)
+**Scope:** Monitoring (batch anomaly detection). Reporting functionalties (e.g. journals) to be reviewed in daily/weekly/monthly meetings
 
 - **Batch visualization**
   - Visualize several batch trends per grade, lot, batchid, step
@@ -24,5 +24,8 @@
   - Alerts when batches are out of normalities
   - Real-time analysis capabilities (yes/no)
   - Transferring models using templates (AF)
-
+- **Journal, reports, documentation**
+  - Building reports that are updated daily/weekly/monthly
+  - Editing, commenting, documenting actions and changes
+  - Connectivity to other MES systems (not only PIMS)
 
